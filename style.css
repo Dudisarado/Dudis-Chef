@@ -1,14 +1,17 @@
 .chamada{
-    background: red;
+    background: rgb(255, 187, 69);
     display: flex;
-     margin-top: 80px;
-     margin-bottom: 80px;
+     padding-top: 80px;
+     padding-bottom: 80px;
      justify-content: center;
   
   }
   
   body{
-     background: yellow;
+     background: rgb(255, 255, 97);
      margin: 0px;
+     font-family: "Prompt", sans-serif;
+     color: black;
+     margin-bottom: 100px;
   
   }
