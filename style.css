@@ -3,15 +3,26 @@
     display: flex;
      padding-top: 80px;
      padding-bottom: 80px;
-     justify-content: center;
-  
-  }
-  
+     justify-content: center; 
+  } 
   body{
      background: rgb(255, 255, 97);
      margin: 0px;
-     font-family: "Prompt", sans-serif;
+     font-family: "Playfair Display", serif;
      color: black;
-     margin-bottom: 100px;
-  
+     margin-bottom: 100px; 
   }
+header{
+    font-size: 35px;
+    color: black;
+    border-bottom: 3px solid black;
+    padding: 20px;
+}
+h1{
+    font-size: 40px;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+   
+}
